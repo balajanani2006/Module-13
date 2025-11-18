@@ -26,7 +26,6 @@ Consider the names of the tower pegs as A, B, C. Get the number of disks value f
        → Move `n-1` disks from auxiliary to destination using source as helper.
 5. Call `TowerOfHanoi(n, 'A', 'C', 'B')` to start the process.
 6. **End the program.**
-
 ---
 
 ### PROGRAM  
